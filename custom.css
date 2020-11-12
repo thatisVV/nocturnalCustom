@@ -308,8 +308,8 @@
 
 .scrollableContainer-2NUZem {
 	overflow-y: auto;
-	background-color: rgba(14, 16, 23, 0.4);
-  	border: 1px solid grey;
+	background-color: rgba(14, 16, 23, 0.4) !important;
+  	border: 1px solid grey !important;
 }
 
 .attachWrapper-2TRKBi {
