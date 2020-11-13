@@ -309,7 +309,7 @@
 .scrollableContainer-2NUZem {
 	overflow-y: auto;
 	background-color: var(--backgroundDarker) !important;
-  border: 1px #485278 !important;
+  border: 1px solid #485278 !important;
 }
 
 .attachWrapper-2TRKBi {
