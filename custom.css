@@ -308,7 +308,7 @@
 
 .scrollableContainer-2NUZem {
 	overflow-y: auto;
-	background-color: var(--backgroundDark) !important;
+	background-color: var(--backgroundDarker) !important;
   border: 1px backgroundDark !important;
 }
 
