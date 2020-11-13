@@ -9,7 +9,7 @@
   --SuccesColor: #28a745;
   --backgroundCode: rgba(0,0,0,.35);
   --backgroundName: rgba(0,0,0,.2);
-  
+
   /* Radial Status */
   --rs-small-spacing: 2px;
   --rs-large-spacing: 3px;
@@ -26,7 +26,7 @@
 
 .wrapper-3vR61M, .wrapper-1F5TKx {
 	background-color: transparent;
-} 
+}
 .row-rrHHJU.selected-1pIgLL .rowInner-1vvRiF{
 	background-color: transparent;
 }
@@ -309,7 +309,7 @@
 .scrollableContainer-2NUZem {
 	overflow-y: auto;
 	background-color: rgba(14, 16, 23, 0.4) !important;
-  	border: 1px solid grey !important;
+  border: 1px black !important;
 }
 
 .attachWrapper-2TRKBi {
