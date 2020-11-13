@@ -308,7 +308,7 @@
 
 .scrollableContainer-2NUZem {
 	overflow-y: auto;
-	background-color: rgba(14, 16, 23, 1) !important;
+	background-color: backgroundDarker !important;
   border: 1px backgroundDark !important;
 }
 
